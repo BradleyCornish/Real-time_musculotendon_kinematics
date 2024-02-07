@@ -1,0 +1,15 @@
+name: Real_time_MTU
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - openpyxl
+  - pingouin
+  - pip
+  - pip:
+      - tensorflow==2.10.0
