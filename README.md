@@ -9,5 +9,5 @@ conda env create -f environment.yml
 # Evaluate MTU-NN models
 Run MAIN.py
 
-# ADD FURTHER DESCRIPTION WHEN I CAN BE BOTHERED
+# Add furtehr description when I can be bothered
 
