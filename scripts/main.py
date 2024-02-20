@@ -20,7 +20,6 @@ retrain_model = False
 # Options are: Uhlrich2022 (Raj model update by Uhlrich, 2022). gait2392 will be added shortly
 Osim_model = "Uhlrich2022"
 model_info_dir = "../Muscle_group_info/"+Osim_model+fsep
-# model_info = pd.read_excel("../OsimModelInfo/"+Osim_model+"_info.xlsx",sheet_name=["Muscles","DegreesOfFreedom","ScaleFactors","ForcesOnBodies"])
 Osim_scale_factors = pd.read_csv("../OpenSim_scale_factors/"+Osim_model+".csv")
 
 # Select NN joint model and load necessary info(Muscles are grouped based according to the joints they cross)
