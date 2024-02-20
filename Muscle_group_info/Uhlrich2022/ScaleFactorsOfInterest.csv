@@ -1,0 +1,7 @@
+HipKnee,Hip,Knee,KneeAnkle,Ankle,Combined
+P1,P1,Fem,Fem,Tib,P1
+P2,P2,Tib,Tib,Foot,P2
+P3,P3,,Foot,,P3
+Fem,Fem,,,,Fem
+Tib,,,,,Tib
+,,,,,Foot

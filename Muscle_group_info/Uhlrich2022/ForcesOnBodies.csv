@@ -1,0 +1,5 @@
+HipKnee,Hip,Knee,KneeAnkle,Ankle,Combined
+pelvis,pelvis,femur,femur,tibia,pelvis
+tibia,femur,tibia,calc,calc,femur
+,,,,,tibia
+,,,,,calc
