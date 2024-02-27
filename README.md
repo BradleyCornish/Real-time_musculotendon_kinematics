@@ -8,8 +8,10 @@ The developed NN provide real-time MTU-kinematics, with similar accuracy to MCBS
 # Create Environment
 conda env create -f environment.yml
 
-# Evaluate MTU-NN models
-Run MAIN.py
+# Evaluate MTU-NN model prediction for musculotendon lengths and moment arms
+Run main.py
 
-# Add further description when I can be bothered
+# Future updates
+Tensorflow Lite conversion and evalutaion of computation time.
+Additional OpenSim (base) models.
 
